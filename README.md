@@ -21,7 +21,7 @@ $ yarn add magpie
 ### Usage
 
 ```javascript
-import Magpie from 'magpie';
+import Magpie from 'magpie-node';
 
 // Retrieve the secret key from your magpie 
 // dashboard under developers tab.
