@@ -1,5 +1,5 @@
 {
-  "name": "magpie",
+  "name": "magpie-node",
   "version": "0.0.3",
   "description": "",
   "main": "dist/index.js",
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jofftiquez/magpie.git"
+    "url": "git+https://github.com/jofftiquez/magpie-node.git"
   },
   "author": "Jofferson R Tiquez",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jofftiquez/magpie/issues"
+    "url": "https://github.com/jofftiquez/magpie-node/issues"
   },
-  "homepage": "https://github.com/jofftiquez/magpie#readme",
+  "homepage": "https://github.com/jofftiquez/magpie-node#readme",
   "devDependencies": {
     "@babel/cli": "^7.7.5",
     "@babel/core": "^7.7.5",
