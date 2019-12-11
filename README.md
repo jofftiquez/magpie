@@ -1,6 +1,6 @@
 # Magpie for Node.js
 
-Lighweight (5kB) node.js client for [Magpie](https://magpie.im/) [API](https://magpie.im/documentation/#section/Introduction).
+Node.js client for [Magpie](https://magpie.im/) [API](https://magpie.im/documentation/#section/Introduction).
 
 ![npm bundle size](https://img.shields.io/bundlephobia/min/magpie?style=flat-square)
 
