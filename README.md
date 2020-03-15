@@ -1,3 +1,5 @@
+# NOTE: This repo has been archived due to lack of contributor and user. If you think you need this library, kindly email me at jofftiquez@gmail.com
+
 # Magpie for Node.js
 
 Node.js client for [Magpie](https://magpie.im/) [API](https://magpie.im/documentation/#section/Introduction).
